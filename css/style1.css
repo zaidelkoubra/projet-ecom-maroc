@@ -1,0 +1,50 @@
+.pic1-cont{
+padding-top :50px;
+padding-bottom: 50px;
+}
+.pic1-cont img{
+    width: 333,13px;
+    height: 420px;
+    
+}
+.pic2-cont{
+    padding-top :50px;
+    padding-bottom: 50px;
+}
+.pic2-cont img{
+        width: 333,13px;
+        height: 420px;
+        
+}
+.pad1, .pad2,.pad3{
+    background-color: #FAF8F1;
+    padding-top: 40px;
+    padding-bottom:30px; 
+}
+.uk-navbar-container {
+    padding-bottom: 30px;
+}
+input {
+border: none;
+font-family: 'Poppins', sans-serif;
+font-size: 20px;
+}
+p{
+    font-family: 'Poppins', sans-serif;
+    color: black;
+}
+.uk-navbar-container,uk-navbar-center, .ul-footer, li, a{
+color: black ;
+/*padding-right: 50px;
+padding-left: 30px;*/
+}
+.uk-navbar-container,uk-navbar-center, .ul-footer, li, a:hover{
+    color: #B26E56;
+}
+
+h2{
+    color: #B26E56;
+}
+.footer, .footer-par{
+    padding-top: 30px;
+}
